@@ -1,0 +1,34 @@
+512
+Matrix size: 512 x 512 | Block size: 16
+Time spent executing kernel: 0.81 ms
+Time spent executing CUBLAS: 1.07 ms
+Max difference with CUBLAS: 3.239181e+01
+
+Matrix size: 512 x 512 | Block size: 16
+Time spent executing kernel: 0.43 ms
+Time spent executing CUBLAS: 0.51 ms
+Max difference with CUBLAS: 3.239181e+01
+
+
+1024
+Matrix size: 1024 x 1024 | Block size: 16
+Time spent executing kernel: 4.92 ms
+Time spent executing CUBLAS: 0.88 ms
+Max difference with CUBLAS: 5.952977e+01
+
+Matrix size: 1024 x 1024 | Block size: 16
+Time spent executing kernel: 3.68 ms
+Time spent executing CUBLAS: 1.83 ms
+Max difference with CUBLAS: 5.952977e+01
+
+
+2048
+Matrix size: 2048 x 2048 | Block size: 16
+Time spent executing kernel: 41.78 ms
+Time spent executing CUBLAS: 2.92 ms
+Max difference with CUBLAS: 1.828986e+02
+
+Matrix size: 2048 x 2048 | Block size: 16
+Time spent executing kernel: 31.89 ms
+Time spent executing CUBLAS: 5.70 ms
+Max difference with CUBLAS: 1.828986e+02

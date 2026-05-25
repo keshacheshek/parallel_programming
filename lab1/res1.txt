@@ -1,0 +1,7 @@
+Size: 200  | Time: 0.0034592 s
+Size: 400  | Time: 0.0339892 s
+Size: 600  | Time: 0.162476  s
+Size: 800  | Time: 0.478172  s
+Size: 1200 | Time: 2.38991   s
+Size: 1600 | Time: 7.60841   s
+Size: 2000 | Time: 22.5507   s

@@ -1,0 +1,27 @@
+400   
+Threads: 1  | Time: 0.029156 s
+Threads: 2  | Time: 0.0179999 s
+Threads: 4  | Time: 0.0120001 s
+Threads: 6  | Time: 0.0109999 s
+Threads: 12 | Time: 0.00899982 s
+
+800
+Threads: 1  | Time: 0.378782 s     
+Threads: 2  | Time: 0.282165 s
+Threads: 4  | Time: 0.121654 s
+Threads: 6  | Time: 0.118654 s
+Threads: 12 | Time: 0.0929999 s
+
+1200
+Threads: 1  | Time: 1.622564 s
+Threads: 2  | Time: 1.046935 s
+Threads: 4  | Time: 0.64657 s
+Threads: 6  | Time: 0.59262 s
+Threads: 12 | Time: 0.641155 s
+
+1600
+Threads: 1 | Time: 8.04316 s
+Threads: 2 | Time: 3.76821 s
+Threads: 4 | Time: 2.42968 s
+Threads: 6 | Time: 1.811853 s
+Threads: 12 | Time: 2.46915 s

@@ -1,0 +1,20 @@
+600
+MPI Processes: 1  | Time: 0.111024 s
+MPI Processes: 2  | Time: 0.0585902 s
+MPI Processes: 4  | Time: 0.0518055 s
+MPI Processes: 6  | Time: 0.057834 s
+MPI Processes: 12 | Time: 0.041261 s
+
+1200
+MPI Processes: 1  | Time: 1.92964 s
+MPI Processes: 2  | Time: 1.63331 s
+MPI Processes: 4  | Time: 1.12144 s
+MPI Processes: 6  | Time: 1.00304 s
+MPI Processes: 12 | Time: 0.959468 s
+
+1600
+MPI Processes: 1  | Time: 6.616 s
+MPI Processes: 2  | Time: 4.22438 s
+MPI Processes: 4  | Time: 2.82081 s
+MPI Processes: 6  | Time: 2.37644 s
+MPI Processes: 12 | Time: 2.70873 s
